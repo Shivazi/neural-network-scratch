@@ -1,1 +1,1 @@
-# neural-network-scratch
+# Neural-Network-Scratch
